@@ -1,0 +1,22 @@
+{
+  "name": "bet_helper",
+  "version": "1.0.0",
+  "description": "Bet Helper Dialogue System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bet",
+    "Helper",
+    "Chatbot"
+  ],
+  "author": "Panagiotis Chalatsakos",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node-wit": "^4.2.0",
+    "request": "^2.81.0"
+  }
+}
